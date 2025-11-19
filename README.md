@@ -34,13 +34,8 @@ er.png)
 ## Demo
 Here’s a screenshot of the blog generation workflow:
 
-![Notebook Workflow](notebook_example.png)
-## Demo GIF
-Watch the agent in action:
 
-![AgentWrite Demo](demo.gif)
 
-![AgentWrite Demo](assets/demo.gif)
 
 ## Setup
 1. Clone the repository:
