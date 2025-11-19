@@ -2,6 +2,8 @@
 
 [![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-orange)](https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/agentwrite-ai-powered-automatic-blog-writer)
 
+![AgentWrite-Blog-AI](https://github.com/user-attachments/assets/29408287-2fcb-4149-8fb2-cb50dab453ff)
+
 AI-powered automatic blog writer to generate, edit, and save blog posts with references.
 
 ## Overview
@@ -19,7 +21,7 @@ AgentWrite-Blog-AI is an AI agent system that automates the entire blog creation
    ```bash
    git clone https://github.com/fatikb-collab/AgentWrite-Blog-AI.git
    cd AgentWrite-Blog-AI
-   pip install -r requirements.txt
+pip install -r requirements.txt
 
 
 
@@ -27,7 +29,8 @@ This README is clear, professional, and ready to show judges or collaborators wh
 
 Do you want me to also **add images or GIF examples** to make it more attractive for your GitHub page?
 
-![AgentWrite-Blog-AI](banner.png)
+![AgentWrite-Blog-AI](bann![Uploading Gemini_Generated_Image_kvmm1tkvmm1tkvmm.png…]()
+er.png)
 ## Demo
 Here’s a screenshot of the blog generation workflow:
 
